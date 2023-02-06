@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Marianne
 
-I'm a former senior product manager transitioning into software development. Customer centricity is part of my work ethics and agile development is what I love. 
+I'm a former senior product manager transitioning into software development. 
 
 🌱 currently I am enrolled in the 20 week Web Developer Course of The Wild Code School in Berlin 
 

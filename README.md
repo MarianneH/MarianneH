@@ -28,7 +28,7 @@ I'm a former senior product manager transitioning into software development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;
 </div>
 
-<!--
+
 ----
 
 1. ### 🔥 My Stats 
@@ -36,7 +36,7 @@ I'm a former senior product manager transitioning into software development.
 3. 
 4. [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarianneH&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-
+<!--
 **MarianneH/MarianneH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

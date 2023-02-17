@@ -36,10 +36,10 @@ I'm a former senior product manager transitioning into software development.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianneH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarianneH&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarianneH&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarianneH&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-<!--
+
 **MarianneH/MarianneH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

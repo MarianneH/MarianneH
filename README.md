@@ -6,7 +6,7 @@ I'm a former senior product manager transitioning into software development.
 
 📫 get in touch: <a href="https://www.linkedin.com/in/marianne-helbig/" target="_blank">LinkedIn</a>
 
-💫 swing by my <a href="https://www.linkedin.com/in/marianne-helbig/" target="_blank">portfolio</a>
+💫 swing by my <a href="https://marianne-helbig.vercel.app/" target="_blank">portfolio</a>
 
 
 -----

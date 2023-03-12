@@ -2,7 +2,7 @@
 
 I'm a former senior product manager transitioning into software development. 
 
-🌱 currently I am enrolled in the 20 week Web Developer Course of The Wild Code School in Berlin 
+🌱 I recently finished the 20 week Web Developer Course of The Wild Code School in Berlin 
 
 📫 get in touch: <a href="https://www.linkedin.com/in/marianne-helbig/" target="_blank">LinkedIn</a>
 
